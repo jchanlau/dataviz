@@ -28,6 +28,7 @@
 - Creating Line Graphs: Simple line graph http://bl.ocks.org/d3noob/4414436
 - Making a map: Let’s Make a Map https://bost.ocks.org/mike/map/
 - Using a slider: D3 simple slider https://bl.ocks.org/johnwalley/e1d256b81e51da68f7feb632a53c3518
+- Drawing map with d3 v5 http://datawanderings.com/2018/10/28/making-a-map-in-d3-js-v-5/
  
 
 ### General
